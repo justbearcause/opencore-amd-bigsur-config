@@ -1,6 +1,8 @@
 # opencore-amd-bigsur-config
 OpenCore-based configuration for Gigabyte B450 I Aorus Pro WiFi + AMD Ryzen 5 2600 + MSI Radeon RX560
 
+![Screenshot](https://i.imgur.com/t0rcchJ.png)
+
 ## Specs:
 * **Motherboard:** Gigabyte B450 I Aorus Pro WiFi
 * **Processor:** AMD Ryzen 5 2600
