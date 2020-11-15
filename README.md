@@ -14,7 +14,7 @@ OpenCore-based configuration for Gigabyte B450 I Aorus Pro WiFi + AMD Ryzen 5 26
 * **Audio output** via Display Port using MSI Radeon RX560
 * **Audio output** using on-board Realtek ALC 1220 (worked well in Catalina, but I didn't test it in Big Sur)
 * **Ethernet** using on-board Intel I211 Gigabit Network Connection (worked well in Catalina, but I didn't test it in Big Sur)
-* **Wi-Fi** using on-board Intel Wireless AC-9260. Connection and usability is Ok but speed is meh
+* **Wi-Fi** using on-board Intel Wireless AC-9260
 * **Bluetooth** using on-board Intel Wireless AC-9260 Bluetooth Adapter. Discovers very few devices, got audio output working, but no input
 * **Sleep**
 * **Handoff**
