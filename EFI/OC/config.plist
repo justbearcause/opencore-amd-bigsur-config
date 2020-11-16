@@ -196,6 +196,11 @@
 				<key>built-in</key>
 				<true/>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>built-in</key>
+				<true/>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
