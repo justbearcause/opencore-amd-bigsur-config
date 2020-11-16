@@ -30,7 +30,6 @@ OpenCore-based configuration for Gigabyte B450 I Aorus Pro WiFi + AMD Ryzen 5 26
 * **HFSPlus**
 
 ## ⚙️ Kexts:
-* **Itlwm** v1.2.0-DEBUG-alpha
 * **AirportItlwm** Big_Sur-v1.2.0-DEBUG-alpha
 * **IntelBluetoothFirmware** v1.1.2
 * **IntelBluetoothInjector** v1.1.2
