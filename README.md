@@ -25,17 +25,17 @@ OpenCore-based configuration for Gigabyte B450 I Aorus Pro WiFi + AMD Ryzen 5 26
 * **Apple Hypervisor**, of course
 
 ## 🚀 Bootloader and Drivers
-* **OpenCore** v.0.6.3-RELEASE
-* **OpenCanopy**
+* [**OpenCore**](https://github.com/acidanthera/OpenCorePkg) v.0.6.3-RELEASE
+* [**OpenCanopy**](https://github.com/acidanthera/OpenCorePkg)
 * **HFSPlus**
 
 ## ⚙️ Kexts:
-* **AirportItlwm** Big_Sur-v1.2.0-DEBUG-alpha
-* **IntelBluetoothFirmware** v1.1.2
-* **IntelBluetoothInjector** v1.1.2
-* **AppleALC** v1.5.4-DEBUG
-* **AppleMCEReporterDisabler** from AMD_Vanilla repo by AMD-OSX
-* **SmallTreeIntel82576** v1.3.0 from SmallTree-I211-AT-patch repo by khronokernel
-* **VirtualSMC** v1.1.8-DEBUG
-* **WhateverGreen** v1.4.4-DEBUG
-* **Lilu** v1.4.9-DEBUG
+* [**AirportItlwm**](https://github.com/OpenIntelWireless/itlwm) Big_Sur-v1.2.0-DEBUG-alpha
+* [**IntelBluetoothFirmware**](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) v1.1.2
+* [**IntelBluetoothInjector**](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) v1.1.2
+* [**AppleALC**](https://github.com/acidanthera/AppleALC) v1.5.4-DEBUG
+* [**AppleMCEReporterDisabler**](https://github.com/AMD-OSX/AMD_Vanilla)
+* [**SmallTreeIntel82576**](https://github.com/khronokernel/SmallTree-I211-AT-patch) v1.3.0
+* [**VirtualSMC**](https://github.com/acidanthera/VirtualSMC) v1.1.8-DEBUG
+* [**WhateverGreen**](https://github.com/acidanthera/WhateverGreen) v1.4.4-DEBUG
+* [**Lilu**](https://github.com/acidanthera/Lilu) v1.4.9-DEBUG
